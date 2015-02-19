@@ -1,0 +1,6 @@
+c:\users\fedde\documents\visual studio 2013\Projects\ctutorials\ctutorials\bin\Debug\ctutorials.exe.config
+c:\users\fedde\documents\visual studio 2013\Projects\ctutorials\ctutorials\obj\Debug\ctutorials.csprojResolveAssemblyReference.cache
+c:\users\fedde\documents\visual studio 2013\Projects\ctutorials\ctutorials\bin\Debug\ctutorials.exe
+c:\users\fedde\documents\visual studio 2013\Projects\ctutorials\ctutorials\bin\Debug\ctutorials.pdb
+c:\users\fedde\documents\visual studio 2013\Projects\ctutorials\ctutorials\obj\Debug\ctutorials.exe
+c:\users\fedde\documents\visual studio 2013\Projects\ctutorials\ctutorials\obj\Debug\ctutorials.pdb

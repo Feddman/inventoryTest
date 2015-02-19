@@ -1,0 +1,6 @@
+C:\Users\Fedde\Documents\Visual Studio 2013\Projects\inventory\inventory\bin\Debug\ctutorials.exe.config
+C:\Users\Fedde\Documents\Visual Studio 2013\Projects\inventory\inventory\obj\Debug\ctutorials.exe
+C:\Users\Fedde\Documents\Visual Studio 2013\Projects\inventory\inventory\obj\Debug\ctutorials.pdb
+C:\Users\Fedde\Documents\Visual Studio 2013\Projects\inventory\inventory\bin\Debug\ctutorials.exe
+C:\Users\Fedde\Documents\Visual Studio 2013\Projects\inventory\inventory\bin\Debug\ctutorials.pdb
+C:\Users\Fedde\Documents\Visual Studio 2013\Projects\inventory\inventory\obj\Debug\inventory.csprojResolveAssemblyReference.cache
